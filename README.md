@@ -6,39 +6,43 @@ JobFinder is a progressive job discovery dashboard that crawls active job listin
 
 ## 🛠️ High-Level Design
 
-```mermaid
-graph TD
-    User([User Query]) -->|Types job role & searches| UI[React Dashboard]
-    UI -->|1. Request once /api/recommendations| RecAgent[Recommendation Agent]
-    RecAgent -->|2. Queries Llama-3.1 temperature=0.0| Groq[Groq API]
-    Groq -->|3. Returns target roles list| RecAgent
-    RecAgent -->|Cache & Log to Pipelines| Cache[(Memory Cache)]
-    UI -->|4. Trigger Searches with Recommended Roles| Endpoints{FastAPI Endpoints}
 
-    Endpoints -->|POST /api/jobs/search/greenhouse| GH[Greenhouse Pipeline]
-    Endpoints -->|POST /api/jobs/search/lever| LV[Lever Pipeline]
-    Endpoints -->|POST /api/jobs/search/linkedin| LI[LinkedIn Pipeline]
 
-    subgraph Greenhouse & Lever
-        GH -->|Crawl boards sequentially one-by-one| GH_API[Greenhouse Job Boards]
-        LV -->|Crawl boards sequentially one-by-one| LV_API[Lever Job Boards]
-    end
+                 +-----------------------------------+
+                 |        Vite React Frontend        |
+                 |  (Feeds, Logs Modal, Search Input)|
+                 +-----------------+-----------------+
+                                   |
+                     1. POST /api/recommendations
+                                   v
+                 +-----------------------------------+
+                 |    Recommendation Agent (Cached)  |
+                 |     (Groq Llama-3.1, Temp=0.0)    |
+                 +-----------------+-----------------+
+                                   |
+                  2. Returns targets roles list
+                                   v
+                 +-----------------------------------+
+                 |          FastAPI Backend          |
+                 +--------+-------+---------+--------+
+                          |       |         |
+      +-------------------+       |         +-------------------+
+      | (POST /search/greenhouse) | (POST /search/lever)        | (POST /search/linkedin)
+      v                           v                             v
++-----+---------------+     +-----+---------------+     +-------+-------------+
+| Greenhouse Crawler  |     |    Lever Crawler    |     |  LinkedIn Crawler   |
+| (Sequentially loop  |     | (Sequentially loop  |     | (Query Agent logic  |
+|   60+ boards)       |     |   60+ boards)       |     |   + SerpApi search) |
++-----+---------------+     +-----+---------------+     +-------+-------------+
+      |                           |                             |
+      | 3. JSON parsed            | 3. JSON parsed              | 3. Organic hits text
+      |    & Filtered             |    & Filtered               |    Groq JSON format
+      v                           v                             v
++-----+---------------------------+-----------------------------+-------------+
+|                         In-Memory Pipeline Logger                           |
+|       (Logs matching and discard reasons. Exposes GET /api/logs/{pipeline}) |
++-----------------------------------------------------------------------------+
 
-    subgraph LinkedIn
-        LI -->|Generate advanced search query| QA[Query Agent]
-        LI -->|Fetch Google search results| Serp[SerpApi Google Search]
-        LI -->|Parse raw search text into JSON| GroqFormat[Groq completions Llama-3.1]
-    end
-
-    GH_API -->|Download JSON & Filter| Log[Pipeline Logger]
-    LV_API -->|Download JSON & Filter| Log
-    Serp -->|Download Listings & Filter| Log
-
-    Log -->|Expose /api/logs/{pipeline}| UI_Logs[Frontend Debug Logs Modal]
-    GH_API -->|Direct Redirect| Apply[Apply Now Link]
-    LV_API -->|Direct Redirect| Apply
-    Serp -->|Direct Redirect| Apply
-```
 
 ---
 
