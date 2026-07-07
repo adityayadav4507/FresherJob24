@@ -7,7 +7,7 @@ JobFinder is a progressive job discovery dashboard that crawls active job listin
 ## 🛠️ High-Level Design
 
 
-
+```
                  +-----------------------------------+
                  |        Vite React Frontend        |
                  |  (Feeds, Logs Modal, Search Input)|
@@ -28,7 +28,7 @@ JobFinder is a progressive job discovery dashboard that crawls active job listin
                           |       |         |
       +-------------------+       |         +-------------------+
       | (POST /search/greenhouse) | (POST /search/lever)        | (POST /search/linkedin)
-      v                           v                             v
+      v                           v                             
 +-----+---------------+     +-----+---------------+     +-------+-------------+
 | Greenhouse Crawler  |     |    Lever Crawler    |     |  LinkedIn Crawler   |
 | (Sequentially loop  |     | (Sequentially loop  |     | (Query Agent logic  |
@@ -43,6 +43,8 @@ JobFinder is a progressive job discovery dashboard that crawls active job listin
 |       (Logs matching and discard reasons. Exposes GET /api/logs/{pipeline}) |
 +-----------------------------------------------------------------------------+
 
+
+```
 
 ---
 
