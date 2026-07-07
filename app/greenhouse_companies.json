@@ -1,0 +1,2186 @@
+[
+  {
+    "name": "Anthropic",
+    "handle": "anthropic"
+  },
+  {
+    "name": "OpenAI",
+    "handle": "openai"
+  },
+  {
+    "name": "Stripe",
+    "handle": "stripe"
+  },
+  {
+    "name": "Notion",
+    "handle": "notion"
+  },
+  {
+    "name": "Figma",
+    "handle": "figma"
+  },
+  {
+    "name": "Canva",
+    "handle": "canva"
+  },
+  {
+    "name": "Linear",
+    "handle": "linear"
+  },
+  {
+    "name": "Airtable",
+    "handle": "airtable"
+  },
+  {
+    "name": "Asana",
+    "handle": "asana"
+  },
+  {
+    "name": "Grammarly",
+    "handle": "grammarly"
+  },
+  {
+    "name": "Datadog",
+    "handle": "datadog"
+  },
+  {
+    "name": "MongoDB",
+    "handle": "mongodb"
+  },
+  {
+    "name": "Elastic",
+    "handle": "elastic"
+  },
+  {
+    "name": "Confluent",
+    "handle": "confluent"
+  },
+  {
+    "name": "Snowflake",
+    "handle": "snowflake"
+  },
+  {
+    "name": "Plaid",
+    "handle": "plaid"
+  },
+  {
+    "name": "Cockroach Labs",
+    "handle": "cockroachlabs"
+  },
+  {
+    "name": "ClickHouse",
+    "handle": "clickhouse"
+  },
+  {
+    "name": "Pinecone",
+    "handle": "pinecone"
+  },
+  {
+    "name": "Scale AI",
+    "handle": "scaleai"
+  },
+  {
+    "name": "Perplexity",
+    "handle": "perplexity"
+  },
+  {
+    "name": "ElevenLabs",
+    "handle": "elevenlabs"
+  },
+  {
+    "name": "Hugging Face",
+    "handle": "huggingface"
+  },
+  {
+    "name": "Render",
+    "handle": "render"
+  },
+  {
+    "name": "Vercel",
+    "handle": "vercel"
+  },
+  {
+    "name": "Supabase",
+    "handle": "supabase"
+  },
+  {
+    "name": "Neon",
+    "handle": "neon"
+  },
+  {
+    "name": "PlanetScale",
+    "handle": "planetscale"
+  },
+  {
+    "name": "Retool",
+    "handle": "retool"
+  },
+  {
+    "name": "Coda",
+    "handle": "coda"
+  },
+  {
+    "name": "Zapier",
+    "handle": "zapier"
+  },
+  {
+    "name": "Ramp",
+    "handle": "ramp"
+  },
+  {
+    "name": "Rippling",
+    "handle": "rippling"
+  },
+  {
+    "name": "Sourcegraph",
+    "handle": "sourcegraph"
+  },
+  {
+    "name": "Temporal",
+    "handle": "temporal"
+  },
+  {
+    "name": "Vanta",
+    "handle": "vanta"
+  },
+  {
+    "name": "Discord",
+    "handle": "discord"
+  },
+  {
+    "name": "GitHub",
+    "handle": "github"
+  },
+  {
+    "name": "GitLab",
+    "handle": "gitlab"
+  },
+  {
+    "name": "Reddit",
+    "handle": "reddit"
+  },
+  {
+    "name": "Pinterest",
+    "handle": "pinterest"
+  },
+  {
+    "name": "Lyft",
+    "handle": "lyft"
+  },
+  {
+    "name": "Uber",
+    "handle": "uber"
+  },
+  {
+    "name": "Robinhood",
+    "handle": "robinhood"
+  },
+  {
+    "name": "HashiCorp",
+    "handle": "hashicorp"
+  },
+  {
+    "name": "Snyk",
+    "handle": "snyk"
+  },
+  {
+    "name": "dbt Labs",
+    "handle": "dbtlabs"
+  },
+  {
+    "name": "LaunchDarkly",
+    "handle": "launchdarkly"
+  },
+  {
+    "name": "Docker",
+    "handle": "docker"
+  },
+  {
+    "name": "Clerk",
+    "handle": "clerk"
+  },
+  {
+    "name": "Auth0",
+    "handle": "auth0"
+  },
+  {
+    "name": "Okta",
+    "handle": "okta"
+  },
+  {
+    "name": "Miro",
+    "handle": "miro"
+  },
+  {
+    "name": "Webflow",
+    "handle": "webflow"
+  },
+  {
+    "name": "Sentry",
+    "handle": "sentry"
+  },
+  {
+    "name": "Databricks",
+    "handle": "databricks"
+  },
+  {
+    "name": "Groww",
+    "handle": "groww"
+  },
+  {
+    "name": "InMobi",
+    "handle": "inmobi"
+  },
+  {
+    "name": "PhonePe",
+    "handle": "phonepe"
+  },
+  {
+    "name": "Rubrik",
+    "handle": "rubrik"
+  },
+  {
+    "name": "Thoughtworks",
+    "handle": "thoughtworks"
+  },
+  {
+    "name": "Stripe",
+    "handle": "stripe"
+  },
+  {
+    "name": "Airbnb",
+    "handle": "airbnb"
+  },
+  {
+    "name": "Cloudflare",
+    "handle": "cloudflare"
+  },
+  {
+    "name": "Figma",
+    "handle": "figma"
+  },
+  {
+    "name": "Vercel",
+    "handle": "vercel"
+  },
+  {
+    "name": "Anthropic",
+    "handle": "anthropic"
+  },
+  {
+    "name": "Supabase",
+    "handle": "supabase"
+  },
+  {
+    "name": "Ramp",
+    "handle": "ramp"
+  },
+  {
+    "name": "Airtable",
+    "handle": "airtable"
+  },
+  {
+    "name": "Gusto",
+    "handle": "gusto"
+  },
+  {
+    "name": "Replicate",
+    "handle": "replicate"
+  },
+  {
+    "name": "Mercury",
+    "handle": "mercury"
+  },
+  {
+    "name": "DoorDash",
+    "handle": "doordash"
+  },
+  {
+    "name": "LinkedIn",
+    "handle": "linkedin"
+  },
+  {
+    "name": "The New York Times",
+    "handle": "nytimes"
+  },
+  {
+    "name": "Forbes",
+    "handle": "forbes"
+  },
+  {
+    "name": "Robinhood",
+    "handle": "robinhood"
+  },
+  {
+    "name": "HelloFresh",
+    "handle": "hellofresh"
+  },
+  {
+    "name": "Monzo",
+    "handle": "monzo"
+  },
+  {
+    "name": "Billie",
+    "handle": "billie"
+  },
+  {
+    "name": "Adjust",
+    "handle": "adjust"
+  },
+  {
+    "name": "Affirm",
+    "handle": "affirm"
+  },
+  {
+    "name": "DiDi",
+    "handle": "didi"
+  },
+  {
+    "name": "Qualtrics",
+    "handle": "qualtrics"
+  },
+  {
+    "name": "Quora",
+    "handle": "quora2"
+  },
+  {
+    "name": "PayPay",
+    "handle": "paypay"
+  },
+  {
+    "name": "Lightspeed",
+    "handle": "lightspeedhq"
+  },
+  {
+    "name": "Creative Fabrica",
+    "handle": "creativefabrica"
+  },
+  {
+    "name": "Coinbase",
+    "handle": "coinbase"
+  },
+  {
+    "name": "Datadog",
+    "handle": "datadog"
+  },
+  {
+    "name": "Discord",
+    "handle": "discord"
+  },
+  {
+    "name": "Dropbox",
+    "handle": "dropbox"
+  },
+  {
+    "name": "Instacart",
+    "handle": "instacart"
+  },
+  {
+    "name": "Lyft",
+    "handle": "lyft"
+  },
+  {
+    "name": "Netlify",
+    "handle": "netlify"
+  },
+  {
+    "name": "Asana",
+    "handle": "asana"
+  },
+  {
+    "name": "Brex",
+    "handle": "brex"
+  },
+  {
+    "name": "Chime",
+    "handle": "chime"
+  },
+  {
+    "name": "Cockroach Labs",
+    "handle": "cockroachlabs"
+  },
+  {
+    "name": "Contentful",
+    "handle": "contentful"
+  },
+  {
+    "name": "Databricks",
+    "handle": "databricks"
+  },
+  {
+    "name": "Duolingo",
+    "handle": "duolingo"
+  },
+  {
+    "name": "Elastic",
+    "handle": "elastic"
+  },
+  {
+    "name": "Flexport",
+    "handle": "flexport"
+  },
+  {
+    "name": "HubSpot",
+    "handle": "hubspot"
+  },
+  {
+    "name": "Lattice",
+    "handle": "lattice"
+  },
+  {
+    "name": "Marqeta",
+    "handle": "marqeta"
+  },
+  {
+    "name": "MongoDB",
+    "handle": "mongodb"
+  },
+  {
+    "name": "Okta",
+    "handle": "okta"
+  },
+  {
+    "name": "Opendoor",
+    "handle": "opendoor"
+  },
+  {
+    "name": "PagerDuty",
+    "handle": "pagerduty"
+  },
+  {
+    "name": "Peloton",
+    "handle": "peloton"
+  },
+  {
+    "name": "Pinterest",
+    "handle": "pinterest"
+  },
+  {
+    "name": "Postman",
+    "handle": "postman"
+  },
+  {
+    "name": "Reddit",
+    "handle": "reddit"
+  },
+  {
+    "name": "Relativity",
+    "handle": "relativity"
+  },
+  {
+    "name": "Ripple",
+    "handle": "ripple"
+  },
+  {
+    "name": "Samsara",
+    "handle": "samsara"
+  },
+  {
+    "name": "SoFi",
+    "handle": "sofi"
+  },
+  {
+    "name": "Squarespace",
+    "handle": "squarespace"
+  },
+  {
+    "name": "Tailscale",
+    "handle": "tailscale"
+  },
+  {
+    "name": "Toast",
+    "handle": "toast"
+  },
+  {
+    "name": "Twitch",
+    "handle": "twitch"
+  },
+  {
+    "name": "Wikimedia",
+    "handle": "wikimedia"
+  },
+  {
+    "name": "ZipRecruiter",
+    "handle": "ziprecruiter"
+  },
+  {
+    "name": "Algolia",
+    "handle": "algolia"
+  },
+  {
+    "name": "Amplitude",
+    "handle": "amplitude"
+  },
+  {
+    "name": "Axiom",
+    "handle": "axiom"
+  },
+  {
+    "name": "Twilio",
+    "handle": "twilio"
+  },
+  {
+    "name": "Razorpay",
+    "handle": "razorpay"
+  },
+  {
+    "name": "BrowserStack",
+    "handle": "browserstack"
+  },
+  {
+    "name": "Freshworks",
+    "handle": "freshworks"
+  },
+  {
+    "name": "Chargebee",
+    "handle": "chargebee"
+  },
+  {
+    "name": "MoEngage",
+    "handle": "moengage"
+  },
+  {
+    "name": "Clevertap",
+    "handle": "clevertap"
+  },
+  {
+    "name": "Darwinbox",
+    "handle": "darwinbox"
+  },
+  {
+    "name": "Innovaccer",
+    "handle": "innovaccer"
+  },
+  {
+    "name": "Gupshup",
+    "handle": "gupshup"
+  },
+  {
+    "name": "Fractal Analytics",
+    "handle": "fractalanalytics"
+  },
+  {
+    "name": "InMobi",
+    "handle": "inmobi"
+  },
+  {
+    "name": "Perfios",
+    "handle": "perfios"
+  },
+  {
+    "name": "upGrad",
+    "handle": "upgrad"
+  },
+  {
+    "name": "Scaler",
+    "handle": "scaler"
+  },
+  {
+    "name": "Sigmoid",
+    "handle": "sigmoid"
+  },
+  {
+    "name": "DataWeave",
+    "handle": "dataweave"
+  },
+  {
+    "name": "Axtria",
+    "handle": "axtria"
+  },
+  {
+    "name": "Classplus",
+    "handle": "classplus"
+  },
+  {
+    "name": "Teachmint",
+    "handle": "teachmint"
+  },
+  {
+    "name": "Wayfair",
+    "handle": "wayfair"
+  },
+  {
+    "name": "Sony",
+    "handle": "sony"
+  },
+  {
+    "name": "Best Buy",
+    "handle": "bestbuy"
+  },
+  {
+    "name": "Travis-CI",
+    "handle": "travisci"
+  },
+  {
+    "name": "Greenhouse",
+    "handle": "greenhouse"
+  },
+  {
+    "name": "WooCommerce",
+    "handle": "woocommerce"
+  },
+  {
+    "name": "Dwolla",
+    "handle": "dwolla"
+  },
+  {
+    "name": "Clearbit",
+    "handle": "clearbit"
+  },
+  {
+    "name": "Parrot Drones",
+    "handle": "parrotdrones"
+  },
+  {
+    "name": "CoinAPI",
+    "handle": "coinapi"
+  },
+  {
+    "name": "NASA",
+    "handle": "nasa"
+  },
+  {
+    "name": "Airship",
+    "handle": "airship"
+  },
+  {
+    "name": "Alma",
+    "handle": "alma"
+  },
+  {
+    "name": "OpenAI",
+    "handle": "openai"
+  },
+  {
+    "name": "Later",
+    "handle": "later"
+  },
+  {
+    "name": "Automattic",
+    "handle": "automatticcareers"
+  },
+  {
+    "name": "GitLab",
+    "handle": "gitlab"
+  },
+  {
+    "name": "Speechify",
+    "handle": "speechify"
+  },
+  {
+    "name": "Zendesk",
+    "handle": "zendesk"
+  },
+  {
+    "name": "Snowflake",
+    "handle": "snowflake"
+  },
+  {
+    "name": "Splunk",
+    "handle": "splunk"
+  },
+  {
+    "name": "Palantir",
+    "handle": "palantir"
+  },
+  {
+    "name": "Shopify",
+    "handle": "shopify"
+  },
+  {
+    "name": "Snap",
+    "handle": "snap"
+  },
+  {
+    "name": "Uber",
+    "handle": "uber"
+  },
+  {
+    "name": "Slack",
+    "handle": "slack"
+  },
+  {
+    "name": "Atlassian",
+    "handle": "atlassian"
+  },
+  {
+    "name": "Canva",
+    "handle": "canva"
+  },
+  {
+    "name": "Grammarly",
+    "handle": "grammarly"
+  },
+  {
+    "name": "Plaid",
+    "handle": "plaid"
+  },
+  {
+    "name": "Eventbrite",
+    "handle": "eventbrite"
+  },
+  {
+    "name": "Box",
+    "handle": "box"
+  },
+  {
+    "name": "Zillow",
+    "handle": "zillow"
+  },
+  {
+    "name": "Yelp",
+    "handle": "yelp"
+  },
+  {
+    "name": "Glassdoor",
+    "handle": "glassdoor"
+  },
+  {
+    "name": "Vimeo",
+    "handle": "vimeo"
+  },
+  {
+    "name": "Foursquare",
+    "handle": "foursquare"
+  },
+  {
+    "name": "Patreon",
+    "handle": "patreon"
+  },
+  {
+    "name": "Substack",
+    "handle": "substack"
+  },
+  {
+    "name": "Kickstarter",
+    "handle": "kickstarter"
+  },
+  {
+    "name": "Indiegogo",
+    "handle": "indiegogo"
+  },
+  {
+    "name": "GoFundMe",
+    "handle": "gofundme"
+  },
+  {
+    "name": "Eventhub",
+    "handle": "eventhub"
+  },
+  {
+    "name": "Hopin",
+    "handle": "hopin"
+  },
+  {
+    "name": "Sendbird",
+    "handle": "sendbird"
+  },
+  {
+    "name": "Agora",
+    "handle": "agora"
+  },
+  {
+    "name": "Mux",
+    "handle": "mux"
+  },
+  {
+    "name": "Gatsby",
+    "handle": "gatsby"
+  },
+  {
+    "name": "Strapi",
+    "handle": "strapi"
+  },
+  {
+    "name": "Contentstack",
+    "handle": "contentstack"
+  },
+  {
+    "name": "Sanity",
+    "handle": "sanity"
+  },
+  {
+    "name": "Prismic",
+    "handle": "prismic"
+  },
+  {
+    "name": "Storyblok",
+    "handle": "storyblok"
+  },
+  {
+    "name": "GraphCMS",
+    "handle": "graphcms"
+  },
+  {
+    "name": "ButterCMS",
+    "handle": "buttercms"
+  },
+  {
+    "name": "Ghost",
+    "handle": "ghost"
+  },
+  {
+    "name": "Hasura",
+    "handle": "hasura"
+  },
+  {
+    "name": "Apollo GraphQL",
+    "handle": "apollographql"
+  },
+  {
+    "name": "Prisma",
+    "handle": "prisma"
+  },
+  {
+    "name": "PlanetScale",
+    "handle": "planetscale"
+  },
+  {
+    "name": "Neon",
+    "handle": "neon"
+  },
+  {
+    "name": "Xata",
+    "handle": "xata"
+  },
+  {
+    "name": "Upstash",
+    "handle": "upstash"
+  },
+  {
+    "name": "Railway",
+    "handle": "railway"
+  },
+  {
+    "name": "Render",
+    "handle": "render"
+  },
+  {
+    "name": "Fly",
+    "handle": "fly"
+  },
+  {
+    "name": "Heroku",
+    "handle": "heroku"
+  },
+  {
+    "name": "DigitalOcean",
+    "handle": "digitalocean"
+  },
+  {
+    "name": "Linode",
+    "handle": "linode"
+  },
+  {
+    "name": "Vultr",
+    "handle": "vultr"
+  },
+  {
+    "name": "Scale AI",
+    "handle": "scaleai"
+  },
+  {
+    "name": "Hugging Face",
+    "handle": "huggingface"
+  },
+  {
+    "name": "Cohere",
+    "handle": "cohere"
+  },
+  {
+    "name": "Midjourney",
+    "handle": "midjourney"
+  },
+  {
+    "name": "Stability AI",
+    "handle": "stabilityai"
+  },
+  {
+    "name": "Runway",
+    "handle": "runway"
+  },
+  {
+    "name": "Jasper",
+    "handle": "jasper"
+  },
+  {
+    "name": "Copy.ai",
+    "handle": "copyai"
+  },
+  {
+    "name": "Mutiny",
+    "handle": "mutiny"
+  },
+  {
+    "name": "Gong",
+    "handle": "gong"
+  },
+  {
+    "name": "Outreach",
+    "handle": "outreach"
+  },
+  {
+    "name": "SalesLoft",
+    "handle": "salesloft"
+  },
+  {
+    "name": "Chorus",
+    "handle": "chorus"
+  },
+  {
+    "name": "Seismic",
+    "handle": "seismic"
+  },
+  {
+    "name": "Highspot",
+    "handle": "highspot"
+  },
+  {
+    "name": "Showpad",
+    "handle": "showpad"
+  },
+  {
+    "name": "ClearSlide",
+    "handle": "clearbit"
+  },
+  {
+    "name": "ZoomInfo",
+    "handle": "zoominfo"
+  },
+  {
+    "name": "Demandbase",
+    "handle": "demandbase"
+  },
+  {
+    "name": "6sense",
+    "handle": "6sense"
+  },
+  {
+    "name": "Terminus",
+    "handle": "terminus"
+  },
+  {
+    "name": "RollWorks",
+    "handle": "rollworks"
+  },
+  {
+    "name": "Metadata",
+    "handle": "metadata"
+  },
+  {
+    "name": "Triblio",
+    "handle": "triblio"
+  },
+  {
+    "name": "Engagio",
+    "handle": "engagio"
+  },
+  {
+    "name": "Bizible",
+    "handle": "bizible"
+  },
+  {
+    "name": "Marketo",
+    "handle": "marketo"
+  },
+  {
+    "name": "Pardot",
+    "handle": "pardot"
+  },
+  {
+    "name": "Eloqua",
+    "handle": "eloqua"
+  },
+  {
+    "name": "ActiveCampaign",
+    "handle": "activecampaign"
+  },
+  {
+    "name": "Klaviyo",
+    "handle": "klaviyo"
+  },
+  {
+    "name": "Mailchimp",
+    "handle": "mailchimp"
+  },
+  {
+    "name": "SendGrid",
+    "handle": "sendgrid"
+  },
+  {
+    "name": "MessageBird",
+    "handle": "messagebird"
+  },
+  {
+    "name": "Postmark",
+    "handle": "postmark"
+  },
+  {
+    "name": "SparkPost",
+    "handle": "sparkpost"
+  },
+  {
+    "name": "Mailgun",
+    "handle": "mailgun"
+  },
+  {
+    "name": "Customer.io",
+    "handle": "customerio"
+  },
+  {
+    "name": "Iterable",
+    "handle": "iterable"
+  },
+  {
+    "name": "Braze",
+    "handle": "braze"
+  },
+  {
+    "name": "Leanplum",
+    "handle": "leanplum"
+  },
+  {
+    "name": "WebEngage",
+    "handle": "webengage"
+  },
+  {
+    "name": "OneSignal",
+    "handle": "onesignal"
+  },
+  {
+    "name": "Airship",
+    "handle": "airship"
+  },
+  {
+    "name": "Localytics",
+    "handle": "localytics"
+  },
+  {
+    "name": "Tapytics",
+    "handle": "tapytics"
+  },
+  {
+    "name": "Swrve",
+    "handle": "swrve"
+  },
+  {
+    "name": "Mixpanel",
+    "handle": "mixpanel"
+  },
+  {
+    "name": "Heap",
+    "handle": "heap"
+  },
+  {
+    "name": "Indicative",
+    "handle": "indicative"
+  },
+  {
+    "name": "AppsFlyer",
+    "handle": "appsflyer"
+  },
+  {
+    "name": "Kochava",
+    "handle": "kochava"
+  },
+  {
+    "name": "Branch",
+    "handle": "branch"
+  },
+  {
+    "name": "Adjust",
+    "handle": "adjust"
+  },
+  {
+    "name": "Singular",
+    "handle": "singular"
+  },
+  {
+    "name": "Tenjin",
+    "handle": "tenjin"
+  },
+  {
+    "name": "AppLovin",
+    "handle": "applovin"
+  },
+  {
+    "name": "Data.ai",
+    "handle": "dataai"
+  },
+  {
+    "name": "Sensor Tower",
+    "handle": "sensortower"
+  },
+  {
+    "name": "SimilarWeb",
+    "handle": "similarweb"
+  },
+  {
+    "name": "Apptopia",
+    "handle": "apptopia"
+  },
+  {
+    "name": "Appfigures",
+    "handle": "appfigures"
+  },
+  {
+    "name": "Mobile Action",
+    "handle": "mobileaction"
+  },
+  {
+    "name": "Gummicube",
+    "handle": "gummicube"
+  },
+  {
+    "name": "StoreMaven",
+    "handle": "storemaven"
+  },
+  {
+    "name": "ASOdesk",
+    "handle": "asodesk"
+  },
+  {
+    "name": "SplitMetrics",
+    "handle": "splitmetrics"
+  },
+  {
+    "name": "AppTweak",
+    "handle": "apptweak"
+  },
+  {
+    "name": "TheTool",
+    "handle": "thetool"
+  },
+  {
+    "name": "AppRadar",
+    "handle": "appradar"
+  },
+  {
+    "name": "Phiture",
+    "handle": "phiture"
+  },
+  {
+    "name": "Incipia",
+    "handle": "incipia"
+  },
+  {
+    "name": "Moburst",
+    "handle": "moburst"
+  },
+  {
+    "name": "Yodel Mobile",
+    "handle": "yodelmobile"
+  },
+  {
+    "name": "M&C Saatchi Performance",
+    "handle": "mcsaatchiperformance"
+  },
+  {
+    "name": "Fetch",
+    "handle": "fetch"
+  },
+  {
+    "name": "Mobiteam",
+    "handle": "mobiteam"
+  },
+  {
+    "name": "Appinventiv",
+    "handle": "appinventiv"
+  },
+  {
+    "name": "Intellectsoft",
+    "handle": "intellectsoft"
+  },
+  {
+    "name": "WillowTree",
+    "handle": "willowtree"
+  },
+  {
+    "name": "Fueled",
+    "handle": "fueled"
+  },
+  {
+    "name": "Yalantis",
+    "handle": "yalantis"
+  },
+  {
+    "name": "Dom & Tom",
+    "handle": "domandtom"
+  },
+  {
+    "name": "BlueFletch",
+    "handle": "bluefletch"
+  },
+  {
+    "name": "Mutual Mobile",
+    "handle": "mutualmobile"
+  },
+  {
+    "name": "Hedgehog Lab",
+    "handle": "hedgehoglab"
+  },
+  {
+    "name": "ArcTouch",
+    "handle": "arctouch"
+  },
+  {
+    "name": "Bottle Rocket",
+    "handle": "bottlerocket"
+  },
+  {
+    "name": "Y Media Labs",
+    "handle": "ymedialabs"
+  },
+  {
+    "name": "STRV",
+    "handle": "strv"
+  },
+  {
+    "name": "Mubaloo",
+    "handle": "mubaloo"
+  },
+  {
+    "name": "Apadmi",
+    "handle": "apadmi"
+  },
+  {
+    "name": "Somo",
+    "handle": "somo"
+  },
+  {
+    "name": "Chelsea Apps Factory",
+    "handle": "chelseaappsfactory"
+  },
+  {
+    "name": "The App Business",
+    "handle": "theappbusiness"
+  },
+  {
+    "name": "MindSea",
+    "handle": "mindsea"
+  },
+  {
+    "name": "Phunware",
+    "handle": "phunware"
+  },
+  {
+    "name": "July Rapid",
+    "handle": "julyrapid"
+  },
+  {
+    "name": "Sourcebits",
+    "handle": "sourcebits"
+  },
+  {
+    "name": "DMI",
+    "handle": "dmi"
+  },
+  {
+    "name": "Konstant Infosolutions",
+    "handle": "konstantinfosolutions"
+  },
+  {
+    "name": "OpenXcell",
+    "handle": "openxcell"
+  },
+  {
+    "name": "Hyperlink InfoSystem",
+    "handle": "hyperlinkinfosystem"
+  },
+  {
+    "name": "TechAhead",
+    "handle": "techahead"
+  },
+  {
+    "name": "Qburst",
+    "handle": "qburst"
+  },
+  {
+    "name": "Zco",
+    "handle": "zco"
+  },
+  {
+    "name": "Appster",
+    "handle": "appster"
+  },
+  {
+    "name": "Contus",
+    "handle": "contus"
+  },
+  {
+    "name": "Hidden Brains",
+    "handle": "hiddenbrains"
+  },
+  {
+    "name": "Cheesecake Labs",
+    "handle": "cheesecakelabs"
+  },
+  {
+    "name": "Rokk3r Labs",
+    "handle": "rokk3rlabs"
+  },
+  {
+    "name": "Small Planet",
+    "handle": "smallplanet"
+  },
+  {
+    "name": "Touchjet",
+    "handle": "touchjet"
+  },
+  {
+    "name": "Softeq",
+    "handle": "softeq"
+  },
+  {
+    "name": "Eleks",
+    "handle": "eleks"
+  },
+  {
+    "name": "Iflexion",
+    "handle": "iflexion"
+  },
+  {
+    "name": "Intetics",
+    "handle": "intetics"
+  },
+  {
+    "name": "ScienceSoft",
+    "handle": "sciencesoft"
+  },
+  {
+    "name": "Ciklum",
+    "handle": "ciklum"
+  },
+  {
+    "name": "N-iX",
+    "handle": "nix"
+  },
+  {
+    "name": "DataArt",
+    "handle": "dataart"
+  },
+  {
+    "name": "Exadel",
+    "handle": "exadel"
+  },
+  {
+    "name": "Miratech",
+    "handle": "miratech"
+  },
+  {
+    "name": "Sigma Software",
+    "handle": "sigmasoftware"
+  },
+  {
+    "name": "QArea",
+    "handle": "qarea"
+  },
+  {
+    "name": "Oxagile",
+    "handle": "oxagile"
+  },
+  {
+    "name": "Itransition",
+    "handle": "itransition"
+  },
+  {
+    "name": "A-Team Systems",
+    "handle": "ateamsystems"
+  },
+  {
+    "name": "MobiWeb",
+    "handle": "mobiweb"
+  },
+  {
+    "name": "Appify",
+    "handle": "appify"
+  },
+  {
+    "name": "Appnovation",
+    "handle": "appnovation"
+  },
+  {
+    "name": "YML",
+    "handle": "yml"
+  },
+  {
+    "name": "Dogtown Media",
+    "handle": "dogtownmedia"
+  },
+  {
+    "name": "Prolific Interactive",
+    "handle": "prolificinteractive"
+  },
+  {
+    "name": "Worry Free Labs",
+    "handle": "worryfreelabs"
+  },
+  {
+    "name": "Kony",
+    "handle": "kony"
+  },
+  {
+    "name": "Eight Bit Studios",
+    "handle": "eightbitstudios"
+  },
+  {
+    "name": "Mokriya",
+    "handle": "mokriya"
+  },
+  {
+    "name": "POSSIBLE",
+    "handle": "possible"
+  },
+  {
+    "name": "Huge",
+    "handle": "huge"
+  },
+  {
+    "name": "AKQA",
+    "handle": "akqa"
+  },
+  {
+    "name": "R/GA",
+    "handle": "rga"
+  },
+  {
+    "name": "VML",
+    "handle": "vml"
+  },
+  {
+    "name": "Razorfish",
+    "handle": "razorfish"
+  },
+  {
+    "name": "Digitas",
+    "handle": "digitas"
+  },
+  {
+    "name": "Sapient",
+    "handle": "sapient"
+  },
+  {
+    "name": "Wunderman",
+    "handle": "wunderman"
+  },
+  {
+    "name": "Ogilvy",
+    "handle": "ogilvy"
+  },
+  {
+    "name": "WPP",
+    "handle": "wpp"
+  },
+  {
+    "name": "Omnicom",
+    "handle": "omnicom"
+  },
+  {
+    "name": "Publicis",
+    "handle": "publicis"
+  },
+  {
+    "name": "Interpublic",
+    "handle": "interpublic"
+  },
+  {
+    "name": "Dentsu",
+    "handle": "dentsu"
+  },
+  {
+    "name": "Havas",
+    "handle": "havas"
+  },
+  {
+    "name": "IPG",
+    "handle": "ipg"
+  },
+  {
+    "name": "Accenture Interactive",
+    "handle": "accentureinteractive"
+  },
+  {
+    "name": "Deloitte Digital",
+    "handle": "deloittedigital"
+  },
+  {
+    "name": "IBM iX",
+    "handle": "ibmix"
+  },
+  {
+    "name": "PwC Digital",
+    "handle": "pwcdigital"
+  },
+  {
+    "name": "Cognizant Interactive",
+    "handle": "cognizantinteractive"
+  },
+  {
+    "name": "Capgemini Interactive",
+    "handle": "capgeminiinteractive"
+  },
+  {
+    "name": "Infosys Interactive",
+    "handle": "infosysinteractive"
+  },
+  {
+    "name": "Wipro Digital",
+    "handle": "wiprodigital"
+  },
+  {
+    "name": "TCS Interactive",
+    "handle": "tcsinteractive"
+  },
+  {
+    "name": "Tech Mahindra Interactive",
+    "handle": "techmahindrainteractive"
+  },
+  {
+    "name": "HCL Digital",
+    "handle": "hcldigital"
+  },
+  {
+    "name": "Mindtree Digital",
+    "handle": "mindtreedigital"
+  },
+  {
+    "name": "LTI Digital",
+    "handle": "ltidigital"
+  },
+  {
+    "name": "Mphasis Digital",
+    "handle": "mphasisdigital"
+  },
+  {
+    "name": "Hexaware Digital",
+    "handle": "hexawaredigital"
+  },
+  {
+    "name": "Zensar Digital",
+    "handle": "zensardigital"
+  },
+  {
+    "name": "NIIT Digital",
+    "handle": "niitdigital"
+  },
+  {
+    "name": "Cyient Digital",
+    "handle": "cyientdigital"
+  },
+  {
+    "name": "Persistent Digital",
+    "handle": "persistentdigital"
+  },
+  {
+    "name": "Birlasoft Digital",
+    "handle": "birlasoftdigital"
+  },
+  {
+    "name": "KPIT Digital",
+    "handle": "kpitdigital"
+  },
+  {
+    "name": "Tata Elxsi Digital",
+    "handle": "tataelxsidigital"
+  },
+  {
+    "name": "Sonata Digital",
+    "handle": "sonatadigital"
+  },
+  {
+    "name": "Coforge Digital",
+    "handle": "coforgedigital"
+  },
+  {
+    "name": "Mastek Digital",
+    "handle": "mastekdigital"
+  },
+  {
+    "name": "Datamatics Digital",
+    "handle": "datamaticsdigital"
+  },
+  {
+    "name": "Nucleus Digital",
+    "handle": "niitdigital"
+  },
+  {
+    "name": "Ramco Digital",
+    "handle": "ramcodigital"
+  },
+  {
+    "name": "Polaris Digital",
+    "handle": "polarisdigital"
+  },
+  {
+    "name": "IGATE Digital",
+    "handle": "igatedigital"
+  },
+  {
+    "name": "Syntel Digital",
+    "handle": "synteldigital"
+  },
+  {
+    "name": "Patni Digital",
+    "handle": "patnidigital"
+  },
+  {
+    "name": "Satyam Digital",
+    "handle": "satyamdigital"
+  },
+  {
+    "name": "Mahindra Satyam Digital",
+    "handle": "mahindrasatyamdigital"
+  },
+  {
+    "name": "Tech Mahindra",
+    "handle": "techmahindra"
+  },
+  {
+    "name": "HCL Technologies",
+    "handle": "hcltechnologies"
+  },
+  {
+    "name": "Wipro",
+    "handle": "wipro"
+  },
+  {
+    "name": "Infosys",
+    "handle": "infosys"
+  },
+  {
+    "name": "TCS",
+    "handle": "tcs"
+  },
+  {
+    "name": "Cognizant",
+    "handle": "cognizant"
+  },
+  {
+    "name": "Capgemini",
+    "handle": "capgemini"
+  },
+  {
+    "name": "Accenture",
+    "handle": "accenture"
+  },
+  {
+    "name": "IBM",
+    "handle": "ibm"
+  },
+  {
+    "name": "Deloitte",
+    "handle": "deloitte"
+  },
+  {
+    "name": "PwC",
+    "handle": "pwc"
+  },
+  {
+    "name": "EY",
+    "handle": "ey"
+  },
+  {
+    "name": "KPMG",
+    "handle": "kpmg"
+  },
+  {
+    "name": "McKinsey",
+    "handle": "mckinsey"
+  },
+  {
+    "name": "Bain",
+    "handle": "bain"
+  },
+  {
+    "name": "BCG",
+    "handle": "bcg"
+  },
+  {
+    "name": "Oliver Wyman",
+    "handle": "oliverwyman"
+  },
+  {
+    "name": "Roland Berger",
+    "handle": "rolandberger"
+  },
+  {
+    "name": "Kearney",
+    "handle": "kearney"
+  },
+  {
+    "name": "L.E.K. Consulting",
+    "handle": "lekconsulting"
+  },
+  {
+    "name": "Alvarez & Marsal",
+    "handle": "alvarezandmarsal"
+  },
+  {
+    "name": "Arthur D. Little",
+    "handle": "arthurdlittle"
+  },
+  {
+    "name": "Simon-Kucher",
+    "handle": "simonkucher"
+  },
+  {
+    "name": "Strategy&",
+    "handle": "strategyand"
+  },
+  {
+    "name": "Monitor Deloitte",
+    "handle": "monitordeloitte"
+  },
+  {
+    "name": "Parthenon",
+    "handle": "parthenon"
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "handle": "boozallen"
+  },
+  {
+    "name": "A.T. Kearney",
+    "handle": "atkearney"
+  },
+  {
+    "name": "Mercer",
+    "handle": "mercer"
+  },
+  {
+    "name": "Willis Towers Watson",
+    "handle": "willistowerswatson"
+  },
+  {
+    "name": "Aon",
+    "handle": "aon"
+  },
+  {
+    "name": "Korn Ferry",
+    "handle": "kornferry"
+  },
+  {
+    "name": "Gallup",
+    "handle": "gallup"
+  },
+  {
+    "name": "Hay Group",
+    "handle": "haygroup"
+  },
+  {
+    "name": "Hewitt Associates",
+    "handle": "haygroup"
+  },
+  {
+    "name": "Towers Perrin",
+    "handle": "willistowerswatson"
+  },
+  {
+    "name": "Watson Wyatt",
+    "handle": "willistowerswatson"
+  },
+  {
+    "name": "Buck Consultants",
+    "handle": "buckconsultants"
+  },
+  {
+    "name": "Aight",
+    "handle": "aight"
+  },
+  {
+    "name": "Nvidia",
+    "handle": "nvidia"
+  },
+  {
+    "name": "Intel",
+    "handle": "intel"
+  },
+  {
+    "name": "AMD",
+    "handle": "amd"
+  },
+  {
+    "name": "Qualcomm",
+    "handle": "qualcomm"
+  },
+  {
+    "name": "Broadcom",
+    "handle": "broadcom"
+  },
+  {
+    "name": "Texas Instruments",
+    "handle": "texasinstruments"
+  },
+  {
+    "name": "Micron",
+    "handle": "micron"
+  },
+  {
+    "name": "Applied Materials",
+    "handle": "appliedmaterials"
+  },
+  {
+    "name": "Analog Devices",
+    "handle": "analogdevices"
+  },
+  {
+    "name": "NXP",
+    "handle": "nxp"
+  },
+  {
+    "name": "Western Digital",
+    "handle": "westerndigital"
+  },
+  {
+    "name": "Skyworks",
+    "handle": "skyworks"
+  },
+  {
+    "name": "Marvell",
+    "handle": "marvell"
+  },
+  {
+    "name": "Microchip",
+    "handle": "micron"
+  },
+  {
+    "name": "Maxim Integrated",
+    "handle": "maxim"
+  },
+  {
+    "name": "Xilinx",
+    "handle": "xilinx"
+  },
+  {
+    "name": "Cypress",
+    "handle": "cypress"
+  },
+  {
+    "name": "Infineon",
+    "handle": "infineon"
+  },
+  {
+    "name": "STMicroelectronics",
+    "handle": "stmicroelectronics"
+  },
+  {
+    "name": "Renesas",
+    "handle": "renesas"
+  },
+  {
+    "name": "Sony Semiconductors",
+    "handle": "sony"
+  },
+  {
+    "name": "Samsung Semiconductors",
+    "handle": "samsung"
+  },
+  {
+    "name": "Toshiba Semiconductors",
+    "handle": "toshiba"
+  },
+  {
+    "name": "SK Hynix",
+    "handle": "skhynix"
+  },
+  {
+    "name": "TSMC",
+    "handle": "tsmc"
+  },
+  {
+    "name": "GlobalFoundries",
+    "handle": "globalfoundries"
+  },
+  {
+    "name": "UMC",
+    "handle": "umc"
+  },
+  {
+    "name": "SMIC",
+    "handle": "umc"
+  },
+  {
+    "name": "Tower Semiconductor",
+    "handle": "tower"
+  },
+  {
+    "name": "Vanguard",
+    "handle": "vanguard"
+  },
+  {
+    "name": "Powerchip",
+    "handle": "powerchip"
+  },
+  {
+    "name": "Hua Hong",
+    "handle": "huahong"
+  },
+  {
+    "name": "DB HiTek",
+    "handle": "dbhitek"
+  },
+  {
+    "name": "Nexchip",
+    "handle": "nexchip"
+  },
+  {
+    "name": "VIS",
+    "handle": "vis"
+  },
+  {
+    "name": "PSMC",
+    "handle": "powerchip"
+  },
+  {
+    "name": "SSMC",
+    "handle": "ssmc"
+  },
+  {
+    "name": "NJR",
+    "handle": "njr"
+  },
+  {
+    "name": "Fuji Electric",
+    "handle": "fujielectric"
+  },
+  {
+    "name": "Sanken",
+    "handle": "sanken"
+  },
+  {
+    "name": "Seiko",
+    "handle": "seiko"
+  },
+  {
+    "name": "Epson",
+    "handle": "epson"
+  },
+  {
+    "name": "Ricoh",
+    "handle": "ricoh"
+  },
+  {
+    "name": "Rohm",
+    "handle": "renesas"
+  },
+  {
+    "name": "Shindengen",
+    "handle": "shindengen"
+  },
+  {
+    "name": "Mitsumi",
+    "handle": "mitsumi"
+  },
+  {
+    "name": "Allegro",
+    "handle": "allegro"
+  },
+  {
+    "name": "Cirrus Logic",
+    "handle": "cirruslogic"
+  },
+  {
+    "name": "Diodes",
+    "handle": "diodes"
+  },
+  {
+    "name": "Elmos",
+    "handle": "elmos"
+  },
+  {
+    "name": "Linear Technology",
+    "handle": "lineartechnology"
+  },
+  {
+    "name": "Macronix",
+    "handle": "macronix"
+  },
+  {
+    "name": "Nuvoton",
+    "handle": "nuvoton"
+  },
+  {
+    "name": "ON Semiconductor",
+    "handle": "onsemiconductor"
+  },
+  {
+    "name": "Qorvo",
+    "handle": "qorvo"
+  },
+  {
+    "name": "Realtek",
+    "handle": "realtek"
+  },
+  {
+    "name": "Semtech",
+    "handle": "semtech"
+  },
+  {
+    "name": "Silicon Labs",
+    "handle": "siliconlabs"
+  },
+  {
+    "name": "Vicor",
+    "handle": "vicor"
+  },
+  {
+    "name": "Wolfspeed",
+    "handle": "wolfspeed"
+  },
+  {
+    "name": "Zarlink",
+    "handle": "zarlink"
+  },
+  {
+    "name": "Ambarella",
+    "handle": "ambarella"
+  },
+  {
+    "name": "Aquantia",
+    "handle": "ambarella"
+  },
+  {
+    "name": "Barefoot Networks",
+    "handle": "intel"
+  },
+  {
+    "name": "Cavium",
+    "handle": "qorvo"
+  },
+  {
+    "name": "Credo",
+    "handle": "credo"
+  },
+  {
+    "name": "DisplayLink",
+    "handle": "displaylink"
+  },
+  {
+    "name": "Efinix",
+    "handle": "efinix"
+  },
+  {
+    "name": "Inphi",
+    "handle": "marvell"
+  },
+  {
+    "name": "Mellanox",
+    "handle": "nvidia"
+  },
+  {
+    "name": "Quantenna",
+    "handle": "marvell"
+  },
+  {
+    "name": "Tehuti Networks",
+    "handle": "tehuti"
+  },
+  {
+    "name": "Atheros",
+    "handle": "qualcomm"
+  },
+  {
+    "name": "CSR",
+    "handle": "cypress"
+  },
+  {
+    "name": "Lantiq",
+    "handle": "intel"
+  },
+  {
+    "name": "MediaTek",
+    "handle": "mediatek"
+  },
+  {
+    "name": "Ralink",
+    "handle": "mediatek"
+  },
+  {
+    "name": "Spreadtrum",
+    "handle": "mediatek"
+  },
+  {
+    "name": "Allwinner",
+    "handle": "allwinner"
+  },
+  {
+    "name": "Rockchip",
+    "handle": "rockchip"
+  },
+  {
+    "name": "HiSilicon",
+    "handle": "hisilicon"
+  },
+  {
+    "name": "Unisoc",
+    "handle": "unisoc"
+  },
+  {
+    "name": "Leadcore",
+    "handle": "unisoc"
+  },
+  {
+    "name": "Novatek",
+    "handle": "novatek"
+  },
+  {
+    "name": "Himax",
+    "handle": "himax"
+  },
+  {
+    "name": "FocalTech",
+    "handle": "focaltech"
+  },
+  {
+    "name": "Ilitek",
+    "handle": "ilitek"
+  },
+  {
+    "name": "Raydium",
+    "handle": "raydium"
+  },
+  {
+    "name": "Sitronix",
+    "handle": "sitronix"
+  },
+  {
+    "name": "Fitipower",
+    "handle": "fitipower"
+  },
+  {
+    "name": "GalaxyCore",
+    "handle": "galaxycore"
+  },
+  {
+    "name": "OmniVision",
+    "handle": "omnivision"
+  },
+  {
+    "name": "Aptina",
+    "handle": "omnivision"
+  },
+  {
+    "name": "Pixelplus",
+    "handle": "pixelplus"
+  },
+  {
+    "name": "Superpix",
+    "handle": "superpix"
+  },
+  {
+    "name": "Silicon Optronics",
+    "handle": "siliconopt"
+  },
+  {
+    "name": "Gpixel",
+    "handle": "gpixel"
+  },
+  {
+    "name": "SmartSens",
+    "handle": "gpixel"
+  },
+  {
+    "name": "SK Telecom",
+    "handle": "skhynix"
+  }
+]

@@ -1,0 +1,1834 @@
+[
+  {
+    "name": "CRED",
+    "handle": "cred"
+  },
+  {
+    "name": "CleverTap",
+    "handle": "clevertap"
+  },
+  {
+    "name": "MindTickle",
+    "handle": "mindtickle"
+  },
+  {
+    "name": "Icertis",
+    "handle": "icertis"
+  },
+  {
+    "name": "Paytm",
+    "handle": "paytm"
+  },
+  {
+    "name": "Udemy",
+    "handle": "udemy"
+  },
+  {
+    "name": "Groww",
+    "handle": "groww"
+  },
+  {
+    "name": "Zepto",
+    "handle": "zepto"
+  },
+  {
+    "name": "Meesho",
+    "handle": "meesho"
+  },
+  {
+    "name": "MakeMyTrip",
+    "handle": "makemytrip"
+  },
+  {
+    "name": "Ola Electric",
+    "handle": "olaelectric"
+  },
+  {
+    "name": "Tata 1mg",
+    "handle": "1mg"
+  },
+  {
+    "name": "Urban Company",
+    "handle": "urbancompany"
+  },
+  {
+    "name": "Delhivery",
+    "handle": "delhivery"
+  },
+  {
+    "name": "BlackBuck",
+    "handle": "blackbuck"
+  },
+  {
+    "name": "PharmEasy",
+    "handle": "pharmeasy"
+  },
+  {
+    "name": "NoBroker",
+    "handle": "nobroker"
+  },
+  {
+    "name": "Shiprocket",
+    "handle": "shiprocket"
+  },
+  {
+    "name": "Moglix",
+    "handle": "moglix"
+  },
+  {
+    "name": "OfBusiness",
+    "handle": "ofbusiness"
+  },
+  {
+    "name": "Bizongo",
+    "handle": "bizongo"
+  },
+  {
+    "name": "Upstox",
+    "handle": "upstox"
+  },
+  {
+    "name": "Games24x7",
+    "handle": "games24x7"
+  },
+  {
+    "name": "Oxyzo",
+    "handle": "oxyzo"
+  },
+  {
+    "name": "Amagi",
+    "handle": "amagi"
+  },
+  {
+    "name": "Hasura",
+    "handle": "hasura"
+  },
+  {
+    "name": "Uniphore",
+    "handle": "uniphore"
+  },
+  {
+    "name": "XpressBees",
+    "handle": "xpressbees"
+  },
+  {
+    "name": "Livspace",
+    "handle": "livspace"
+  },
+  {
+    "name": "BankOpen",
+    "handle": "bankopen"
+  },
+  {
+    "name": "Jupiter",
+    "handle": "jupiter"
+  },
+  {
+    "name": "Simpl",
+    "handle": "simpl"
+  },
+  {
+    "name": "Acko",
+    "handle": "acko"
+  },
+  {
+    "name": "Spotify",
+    "handle": "spotify"
+  },
+  {
+    "name": "Atlassian",
+    "handle": "atlassian"
+  },
+  {
+    "name": "Coupa",
+    "handle": "coupa"
+  },
+  {
+    "name": "Aircall",
+    "handle": "aircall"
+  },
+  {
+    "name": "Fingerprint",
+    "handle": "fingerprint"
+  },
+  {
+    "name": "Schonfeld",
+    "handle": "schonfeld"
+  },
+  {
+    "name": "Fivetran",
+    "handle": "fivetran"
+  },
+  {
+    "name": "Deriv",
+    "handle": "deriv"
+  },
+  {
+    "name": "Tiko",
+    "handle": "tiko"
+  },
+  {
+    "name": "BlocPower",
+    "handle": "blocpower"
+  },
+  {
+    "name": "InductEV",
+    "handle": "inductev"
+  },
+  {
+    "name": "Mythic AI",
+    "handle": "mythic-ai"
+  },
+  {
+    "name": "Axelera AI",
+    "handle": "axelera-ai"
+  },
+  {
+    "name": "Instructure",
+    "handle": "instructure"
+  },
+  {
+    "name": "Stitch Health",
+    "handle": "teamstitch"
+  },
+  {
+    "name": "Trusting Social",
+    "handle": "trustingsocial"
+  },
+  {
+    "name": "FINN",
+    "handle": "finn.auto"
+  },
+  {
+    "name": "PhotoRoom",
+    "handle": "photoroom"
+  },
+  {
+    "name": "Intropic",
+    "handle": "intropic"
+  },
+  {
+    "name": "Mujin",
+    "handle": "mujininc"
+  },
+  {
+    "name": "Stable Money",
+    "handle": "stable-money1"
+  },
+  {
+    "name": "Enterpret",
+    "handle": "enterpret"
+  },
+  {
+    "name": "Fampay",
+    "handle": "fampay"
+  },
+  {
+    "name": "UpGrad",
+    "handle": "upgrad"
+  },
+  {
+    "name": "Vedantu",
+    "handle": "vedantu"
+  },
+  {
+    "name": "Curefit",
+    "handle": "curefit"
+  },
+  {
+    "name": "Razorpay",
+    "handle": "razorpay"
+  },
+  {
+    "name": "Highlevel",
+    "handle": "gohighlevel"
+  },
+  {
+    "name": "Ethena",
+    "handle": "ethenalabs"
+  },
+  {
+    "name": "Mistral AI",
+    "handle": "mistral"
+  },
+  {
+    "name": "Shield AI",
+    "handle": "shieldai"
+  },
+  {
+    "name": "PSI Quantum",
+    "handle": "psiquantum"
+  },
+  {
+    "name": "GoGuardian",
+    "handle": "goguardian"
+  },
+  {
+    "name": "CredAvenue",
+    "handle": "credavenue"
+  },
+  {
+    "name": "Cal.com",
+    "handle": "cal"
+  },
+  {
+    "name": "Appwrite",
+    "handle": "appwrite"
+  },
+  {
+    "name": "Y Combinator",
+    "handle": "ycombinator"
+  },
+  {
+    "name": "Plangrid",
+    "handle": "plangrid"
+  },
+  {
+    "name": "Dwelo",
+    "handle": "dwelo"
+  },
+  {
+    "name": "Iron.io",
+    "handle": "iron-io"
+  },
+  {
+    "name": "Figma",
+    "handle": "figma"
+  },
+  {
+    "name": "Pitch",
+    "handle": "pitch"
+  },
+  {
+    "name": "Retool",
+    "handle": "retool"
+  },
+  {
+    "name": "Vercel",
+    "handle": "vercel"
+  },
+  {
+    "name": "Mux",
+    "handle": "mux"
+  },
+  {
+    "name": "Railway",
+    "handle": "railway"
+  },
+  {
+    "name": "Supabase",
+    "handle": "supabase"
+  },
+  {
+    "name": "Dremio",
+    "handle": "dremio"
+  },
+  {
+    "name": "Ramp",
+    "handle": "ramp"
+  },
+  {
+    "name": "Airtable",
+    "handle": "airtable"
+  },
+  {
+    "name": "Gusto",
+    "handle": "gusto"
+  },
+  {
+    "name": "Chime",
+    "handle": "chime"
+  },
+  {
+    "name": "Brex",
+    "handle": "brex"
+  },
+  {
+    "name": "Lattice",
+    "handle": "lattice"
+  },
+  {
+    "name": "Checkr",
+    "handle": "checkr"
+  },
+  {
+    "name": "Carta",
+    "handle": "carta"
+  },
+  {
+    "name": "Gong",
+    "handle": "gong"
+  },
+  {
+    "name": "Outreach",
+    "handle": "outreach"
+  },
+  {
+    "name": "SalesLoft",
+    "handle": "salesloft"
+  },
+  {
+    "name": "ActiveCampaign",
+    "handle": "activecampaign"
+  },
+  {
+    "name": "Klaviyo",
+    "handle": "klaviyo"
+  },
+  {
+    "name": "Postmark",
+    "handle": "postmark"
+  },
+  {
+    "name": "Customer.io",
+    "handle": "customerio"
+  },
+  {
+    "name": "Braze",
+    "handle": "braze"
+  },
+  {
+    "name": "Mixpanel",
+    "handle": "mixpanel"
+  },
+  {
+    "name": "Heap",
+    "handle": "heap"
+  },
+  {
+    "name": "Branch",
+    "handle": "branch"
+  },
+  {
+    "name": "Singular",
+    "handle": "singular"
+  },
+  {
+    "name": "AppsFlyer",
+    "handle": "appsflyer"
+  },
+  {
+    "name": "Adjust",
+    "handle": "adjust"
+  },
+  {
+    "name": "Hotjar",
+    "handle": "hotjar"
+  },
+  {
+    "name": "Intercom",
+    "handle": "intercom"
+  },
+  {
+    "name": "Sentry",
+    "handle": "sentry"
+  },
+  {
+    "name": "Algolia",
+    "handle": "algolia"
+  },
+  {
+    "name": "Auth0",
+    "handle": "auth0"
+  },
+  {
+    "name": "Webflow",
+    "handle": "webflow"
+  },
+  {
+    "name": "Squarespace",
+    "handle": "squarespace"
+  },
+  {
+    "name": "Wix",
+    "handle": "wix"
+  },
+  {
+    "name": "Ghost",
+    "handle": "ghost"
+  },
+  {
+    "name": "Prisma",
+    "handle": "prisma"
+  },
+  {
+    "name": "PlanetScale",
+    "handle": "planetscale"
+  },
+  {
+    "name": "Neon",
+    "handle": "neon"
+  },
+  {
+    "name": "Fly.io",
+    "handle": "fly"
+  },
+  {
+    "name": "Render",
+    "handle": "render"
+  },
+  {
+    "name": "DigitalOcean",
+    "handle": "digitalocean"
+  },
+  {
+    "name": "Hugging Face",
+    "handle": "huggingface"
+  },
+  {
+    "name": "Cohere",
+    "handle": "cohere"
+  },
+  {
+    "name": "Midjourney",
+    "handle": "midjourney"
+  },
+  {
+    "name": "Stability AI",
+    "handle": "stabilityai"
+  },
+  {
+    "name": "Runway",
+    "handle": "runway"
+  },
+  {
+    "name": "Jasper",
+    "handle": "jasper"
+  },
+  {
+    "name": "Copy.ai",
+    "handle": "copyai"
+  },
+  {
+    "name": "Scale AI",
+    "handle": "scaleai"
+  },
+  {
+    "name": "OneSignal",
+    "handle": "onesignal"
+  },
+  {
+    "name": "Segment",
+    "handle": "segment"
+  },
+  {
+    "name": "Framer",
+    "handle": "framer"
+  },
+  {
+    "name": "Optimizely",
+    "handle": "optimizely"
+  },
+  {
+    "name": "Pendo",
+    "handle": "pendo"
+  },
+  {
+    "name": "FullStory",
+    "handle": "fullstory"
+  },
+  {
+    "name": "LogRocket",
+    "handle": "logrocket"
+  },
+  {
+    "name": "Datadog",
+    "handle": "datadog"
+  },
+  {
+    "name": "New Relic",
+    "handle": "newrelic"
+  },
+  {
+    "name": "Dynatrace",
+    "handle": "dynatrace"
+  },
+  {
+    "name": "AppDynamics",
+    "handle": "appdynamics"
+  },
+  {
+    "name": "Splunk",
+    "handle": "splunk"
+  },
+  {
+    "name": "Sumo Logic",
+    "handle": "sumologic"
+  },
+  {
+    "name": "Elastic",
+    "handle": "elastic"
+  },
+  {
+    "name": "Grafana Labs",
+    "handle": "grafana"
+  },
+  {
+    "name": "HashiCorp",
+    "handle": "hashicorp"
+  },
+  {
+    "name": "PagerDuty",
+    "handle": "pagerduty"
+  },
+  {
+    "name": "LaunchDarkly",
+    "handle": "launchdarkly"
+  },
+  {
+    "name": "Split.io",
+    "handle": "split"
+  },
+  {
+    "name": "Harness",
+    "handle": "harness"
+  },
+  {
+    "name": "CircleCI",
+    "handle": "circleci"
+  },
+  {
+    "name": "Travis CI",
+    "handle": "travisci"
+  },
+  {
+    "name": "GitLab",
+    "handle": "gitlab"
+  },
+  {
+    "name": "GitHub",
+    "handle": "github"
+  },
+  {
+    "name": "Atlassian",
+    "handle": "atlassian"
+  },
+  {
+    "name": "Linear",
+    "handle": "linear"
+  },
+  {
+    "name": "Asana",
+    "handle": "asana"
+  },
+  {
+    "name": "Monday.com",
+    "handle": "monday"
+  },
+  {
+    "name": "Wrike",
+    "handle": "wrike"
+  },
+  {
+    "name": "Smartsheet",
+    "handle": "smartsheet"
+  },
+  {
+    "name": "ClickUp",
+    "handle": "clickup"
+  },
+  {
+    "name": "Basecamp",
+    "handle": "basecamp"
+  },
+  {
+    "name": "Notion",
+    "handle": "notion"
+  },
+  {
+    "name": "Slack",
+    "handle": "slack"
+  },
+  {
+    "name": "Discord",
+    "handle": "discord"
+  },
+  {
+    "name": "Zoom",
+    "handle": "zoom"
+  },
+  {
+    "name": "Loom",
+    "handle": "loom"
+  },
+  {
+    "name": "Coda",
+    "handle": "coda"
+  },
+  {
+    "name": "Airtable",
+    "handle": "airtable"
+  },
+  {
+    "name": "Miro",
+    "handle": "miro"
+  },
+  {
+    "name": "Mural",
+    "handle": "mural"
+  },
+  {
+    "name": "Lucid",
+    "handle": "lucidchart"
+  },
+  {
+    "name": "InVision",
+    "handle": "invision"
+  },
+  {
+    "name": "Sketch",
+    "handle": "sketch"
+  },
+  {
+    "name": "Canva",
+    "handle": "canva"
+  },
+  {
+    "name": "Adobe",
+    "handle": "adobe"
+  },
+  {
+    "name": "Affirm",
+    "handle": "affirm"
+  },
+  {
+    "name": "Klarna",
+    "handle": "klarna"
+  },
+  {
+    "name": "Afterpay",
+    "handle": "afterpay"
+  },
+  {
+    "name": "Chime",
+    "handle": "chime"
+  },
+  {
+    "name": "Sofi",
+    "handle": "sofi"
+  },
+  {
+    "name": "Robinhood",
+    "handle": "robinhood"
+  },
+  {
+    "name": "Coinbase",
+    "handle": "coinbase"
+  },
+  {
+    "name": "Binance",
+    "handle": "binance"
+  },
+  {
+    "name": "Ripple",
+    "handle": "ripple"
+  },
+  {
+    "name": "Stripe",
+    "handle": "stripe"
+  },
+  {
+    "name": "Adyen",
+    "handle": "adyen"
+  },
+  {
+    "name": "Checkout.com",
+    "handle": "checkout"
+  },
+  {
+    "name": "Braintree",
+    "handle": "braintree"
+  },
+  {
+    "name": "Plaid",
+    "handle": "plaid"
+  },
+  {
+    "name": "Carta",
+    "handle": "carta"
+  },
+  {
+    "name": "Gusto",
+    "handle": "gusto"
+  },
+  {
+    "name": "Zenefits",
+    "handle": "zenefits"
+  },
+  {
+    "name": "Rippling",
+    "handle": "rippling"
+  },
+  {
+    "name": "BambooHR",
+    "handle": "bamboohr"
+  },
+  {
+    "name": "Namely",
+    "handle": "namely"
+  },
+  {
+    "name": "Paylocity",
+    "handle": "paylocity"
+  },
+  {
+    "name": "Paycor",
+    "handle": "paycor"
+  },
+  {
+    "name": "Deel",
+    "handle": "deel"
+  },
+  {
+    "name": "Oyster",
+    "handle": "oyster"
+  },
+  {
+    "name": "Remote",
+    "handle": "remote"
+  },
+  {
+    "name": "Papaya Global",
+    "handle": "papayaglobal"
+  },
+  {
+    "name": "Lattice",
+    "handle": "lattice"
+  },
+  {
+    "name": "15Five",
+    "handle": "15five"
+  },
+  {
+    "name": "Culture Amp",
+    "handle": "cultureamp"
+  },
+  {
+    "name": "Workday",
+    "handle": "workday"
+  },
+  {
+    "name": "ServiceNow",
+    "handle": "servicenow"
+  },
+  {
+    "name": "Salesforce",
+    "handle": "salesforce"
+  },
+  {
+    "name": "HubSpot",
+    "handle": "hubspot"
+  },
+  {
+    "name": "Zendesk",
+    "handle": "zendesk"
+  },
+  {
+    "name": "Freshworks",
+    "handle": "freshworks"
+  },
+  {
+    "name": "Intercom",
+    "handle": "intercom"
+  },
+  {
+    "name": "Drift",
+    "handle": "drift"
+  },
+  {
+    "name": "Gorgias",
+    "handle": "gorgias"
+  },
+  {
+    "name": "Kustomer",
+    "handle": "kustomer"
+  },
+  {
+    "name": "Help Scout",
+    "handle": "helpscout"
+  },
+  {
+    "name": "Front",
+    "handle": "frontapp"
+  },
+  {
+    "name": "Aircall",
+    "handle": "aircall"
+  },
+  {
+    "name": "RingCentral",
+    "handle": "ringcentral"
+  },
+  {
+    "name": "Twilio",
+    "handle": "twilio"
+  },
+  {
+    "name": "MessageBird",
+    "handle": "messagebird"
+  },
+  {
+    "name": "Plivo",
+    "handle": "plivo"
+  },
+  {
+    "name": "Sinch",
+    "handle": "sinch"
+  },
+  {
+    "name": "Mailchimp",
+    "handle": "mailchimp"
+  },
+  {
+    "name": "SendGrid",
+    "handle": "sendgrid"
+  },
+  {
+    "name": "Klaviyo",
+    "handle": "klaviyo"
+  },
+  {
+    "name": "ActiveCampaign",
+    "handle": "activecampaign"
+  },
+  {
+    "name": "Campaign Monitor",
+    "handle": "campaignmonitor"
+  },
+  {
+    "name": "Constant Contact",
+    "handle": "constantcontact"
+  },
+  {
+    "name": "MailerLite",
+    "handle": "mailerlite"
+  },
+  {
+    "name": "HubSpot CRM",
+    "handle": "hubspotcrm"
+  },
+  {
+    "name": "Salesforce CRM",
+    "handle": "salesforcecrm"
+  },
+  {
+    "name": "Pipedrive",
+    "handle": "pipedrive"
+  },
+  {
+    "name": "Copper",
+    "handle": "copper"
+  },
+  {
+    "name": "Zoho CRM",
+    "handle": "zohocrm"
+  },
+  {
+    "name": "Freshsales",
+    "handle": "freshsales"
+  },
+  {
+    "name": "Close",
+    "handle": "close"
+  },
+  {
+    "name": "Keap",
+    "handle": "keap"
+  },
+  {
+    "name": "Insightly",
+    "handle": "insightly"
+  },
+  {
+    "name": "Nimble",
+    "handle": "nimble"
+  },
+  {
+    "name": "Capsule",
+    "handle": "capsule"
+  },
+  {
+    "name": "Zendesk Sell",
+    "handle": "zendesksell"
+  },
+  {
+    "name": "Agile CRM",
+    "handle": "agilecrm"
+  },
+  {
+    "name": "SugarCRM",
+    "handle": "sugarcrm"
+  },
+  {
+    "name": "Microsoft Dynamics",
+    "handle": "dynamics"
+  },
+  {
+    "name": "Oracle CX",
+    "handle": "oraclecx"
+  },
+  {
+    "name": "SAP C/4HANA",
+    "handle": "sapc4hana"
+  },
+  {
+    "name": "Gong.io",
+    "handle": "gongio"
+  },
+  {
+    "name": "Chorus.ai",
+    "handle": "chorusai"
+  },
+  {
+    "name": "People.ai",
+    "handle": "peopleai"
+  },
+  {
+    "name": "Outreach.io",
+    "handle": "outreachio"
+  },
+  {
+    "name": "Salesloft",
+    "handle": "salesloft"
+  },
+  {
+    "name": "Yesware",
+    "handle": "yesware"
+  },
+  {
+    "name": "ToutApp",
+    "handle": "toutapp"
+  },
+  {
+    "name": "Mixmax",
+    "handle": "mixmax"
+  },
+  {
+    "name": "Groove.co",
+    "handle": "grooveco"
+  },
+  {
+    "name": "Apollo.io",
+    "handle": "apolloio"
+  },
+  {
+    "name": "ZoomInfo",
+    "handle": "zoominfo"
+  },
+  {
+    "name": "Lusha",
+    "handle": "lusha"
+  },
+  {
+    "name": "Clearbit",
+    "handle": "clearbit"
+  },
+  {
+    "name": "Leadfeeder",
+    "handle": "leadfeeder"
+  },
+  {
+    "name": "Leadspace",
+    "handle": "leadspace"
+  },
+  {
+    "name": "InsideView",
+    "handle": "insideview"
+  },
+  {
+    "name": "DiscoverOrg",
+    "handle": "discoverorg"
+  },
+  {
+    "name": "Seamless.ai",
+    "handle": "seamlessai"
+  },
+  {
+    "name": "Hunter.io",
+    "handle": "hunterio"
+  },
+  {
+    "name": "Voila Norbert",
+    "handle": "voilanorbert"
+  },
+  {
+    "name": "Anymail Finder",
+    "handle": "anymailfinder"
+  },
+  {
+    "name": "Snov.io",
+    "handle": "snovio"
+  },
+  {
+    "name": "RocketReach",
+    "handle": "rocketreach"
+  },
+  {
+    "name": "SalesIntel",
+    "handle": "salesintel"
+  },
+  {
+    "name": "Cognism",
+    "handle": "cognism"
+  },
+  {
+    "name": "Uplead",
+    "handle": "uplead"
+  },
+  {
+    "name": "Kaspr",
+    "handle": "kaspr"
+  },
+  {
+    "name": "SignalHire",
+    "handle": "signalhire"
+  },
+  {
+    "name": "D&B Hoovers",
+    "handle": "hoovers"
+  },
+  {
+    "name": "Crunchbase",
+    "handle": "crunchbase"
+  },
+  {
+    "name": "PitchBook",
+    "handle": "pitchbook"
+  },
+  {
+    "name": "CB Insights",
+    "handle": "cbinsights"
+  },
+  {
+    "name": "Owler",
+    "handle": "owler"
+  },
+  {
+    "name": "Mattermark",
+    "handle": "mattermark"
+  },
+  {
+    "name": "Tracxn",
+    "handle": "tracxn"
+  },
+  {
+    "name": "VentureSource",
+    "handle": "venturesource"
+  },
+  {
+    "name": "PrivCo",
+    "handle": "privco"
+  },
+  {
+    "name": "Data.fox",
+    "handle": "datafox"
+  },
+  {
+    "name": "SourceScrub",
+    "handle": "sourcescrub"
+  },
+  {
+    "name": "Grata",
+    "handle": "grata"
+  },
+  {
+    "name": "Harmonic.ai",
+    "handle": "harmonicai"
+  },
+  {
+    "name": "Synaptic",
+    "handle": "synaptic"
+  },
+  {
+    "name": "Aisera",
+    "handle": "aisera"
+  },
+  {
+    "name": "Moveworks",
+    "handle": "moveworks"
+  },
+  {
+    "name": "Glint",
+    "handle": "glint"
+  },
+  {
+    "name": "Officevibe",
+    "handle": "officevibe"
+  },
+  {
+    "name": "Peakon",
+    "handle": "peakon"
+  },
+  {
+    "name": "TinyPulse",
+    "handle": "tinypulse"
+  },
+  {
+    "name": "Kudos",
+    "handle": "kudos"
+  },
+  {
+    "name": "Reward Gateway",
+    "handle": "rewardgateway"
+  },
+  {
+    "name": "Bonusly",
+    "handle": "bonusly"
+  },
+  {
+    "name": "Fond",
+    "handle": "fond"
+  },
+  {
+    "name": "Motivosity",
+    "handle": "motivosity"
+  },
+  {
+    "name": "Guusto",
+    "handle": "guusto"
+  },
+  {
+    "name": "Snappy",
+    "handle": "snappy"
+  },
+  {
+    "name": "Blueboard",
+    "handle": "blueboard"
+  },
+  {
+    "name": "Cooleaf",
+    "handle": "cooleaf"
+  },
+  {
+    "name": "Assembly",
+    "handle": "assembly"
+  },
+  {
+    "name": "Nectar",
+    "handle": "nectar"
+  },
+  {
+    "name": "Quantum Workplace",
+    "handle": "quantumworkplace"
+  },
+  {
+    "name": "Empuls",
+    "handle": "empuls"
+  },
+  {
+    "name": "WorkTango",
+    "handle": "worktango"
+  },
+  {
+    "name": "Kazoo",
+    "handle": "kazoo"
+  },
+  {
+    "name": "YouEarnedIt",
+    "handle": "youearnedit"
+  },
+  {
+    "name": "Achievers",
+    "handle": "achievers"
+  },
+  {
+    "name": "Workhuman",
+    "handle": "workhuman"
+  },
+  {
+    "name": "Recognize",
+    "handle": "recognize"
+  },
+  {
+    "name": "Terryberry",
+    "handle": "terryberry"
+  },
+  {
+    "name": "O.C. Tanner",
+    "handle": "octanner"
+  },
+  {
+    "name": "Corporate Rewards",
+    "handle": "corporaterewards"
+  },
+  {
+    "name": "Sodexo",
+    "handle": "sodexo"
+  },
+  {
+    "name": "Edenred",
+    "handle": "edenred"
+  },
+  {
+    "name": "Perkbox",
+    "handle": "perkbox"
+  },
+  {
+    "name": "Vantage Circle",
+    "handle": "vantagecircle"
+  },
+  {
+    "name": "Plum",
+    "handle": "plum"
+  },
+  {
+    "name": "Xoxoday",
+    "handle": "xoxoday"
+  },
+  {
+    "name": "Giftbit",
+    "handle": "giftbit"
+  },
+  {
+    "name": "Tango Card",
+    "handle": "tangocard"
+  },
+  {
+    "name": "Tremendous",
+    "handle": "tremendous"
+  },
+  {
+    "name": "Rybbon",
+    "handle": "rybbon"
+  },
+  {
+    "name": "Blackhawk Network",
+    "handle": "blackhawk"
+  },
+  {
+    "name": "InComm",
+    "handle": "incomm"
+  },
+  {
+    "name": "Prepaid.com",
+    "handle": "prepaid"
+  },
+  {
+    "name": "Virtual Incentives",
+    "handle": "virtualincentives"
+  },
+  {
+    "name": "Loop Global",
+    "handle": "loopglobal"
+  },
+  {
+    "name": "Omnipresent",
+    "handle": "omnipresent"
+  },
+  {
+    "name": "Multiplier",
+    "handle": "multiplier"
+  },
+  {
+    "name": "Boundless",
+    "handle": "boundless"
+  },
+  {
+    "name": "Globalization Partners",
+    "handle": "globalizationpartners"
+  },
+  {
+    "name": "Atlas HXM",
+    "handle": "atlashxm"
+  },
+  {
+    "name": "Velocity Global",
+    "handle": "velocityglobal"
+  },
+  {
+    "name": "Shield Geo",
+    "handle": "shieldgeo"
+  },
+  {
+    "name": "GoGlobal",
+    "handle": "goglobal"
+  },
+  {
+    "name": "Remofirst",
+    "handle": "remofirst"
+  },
+  {
+    "name": "Skuad",
+    "handle": "skuad"
+  },
+  {
+    "name": "WorkMotion",
+    "handle": "workmotion"
+  },
+  {
+    "name": "Horizons",
+    "handle": "horizons"
+  },
+  {
+    "name": "Global Expansion",
+    "handle": "globalexpansion"
+  },
+  {
+    "name": "FoxHire",
+    "handle": "foxhire"
+  },
+  {
+    "name": "Innovative Employee Solutions",
+    "handle": "ies"
+  },
+  {
+    "name": "TCWGlobal",
+    "handle": "tcwglobal"
+  },
+  {
+    "name": "TargetCW",
+    "handle": "targetcw"
+  },
+  {
+    "name": "Safeguard Global",
+    "handle": "safeguardglobal"
+  },
+  {
+    "name": "TMF Group",
+    "handle": "tmfgroup"
+  },
+  {
+    "name": "Mercans",
+    "handle": "mercans"
+  },
+  {
+    "name": "Neeyamo",
+    "handle": "neeyamo"
+  },
+  {
+    "name": "BDO",
+    "handle": "bdo"
+  },
+  {
+    "name": "Grant Thornton",
+    "handle": "grantthornton"
+  },
+  {
+    "name": "Baker Tilly",
+    "handle": "bakertilly"
+  },
+  {
+    "name": "Mazars",
+    "handle": "mazars"
+  },
+  {
+    "name": "RSM",
+    "handle": "rsm"
+  },
+  {
+    "name": "Crowe",
+    "handle": "crowe"
+  },
+  {
+    "name": "CohnReznick",
+    "handle": "cohnreznick"
+  },
+  {
+    "name": "Marcum",
+    "handle": "marcum"
+  },
+  {
+    "name": "EisnerAmper",
+    "handle": "eisneramper"
+  },
+  {
+    "name": "Armanino",
+    "handle": "armanino"
+  },
+  {
+    "name": "Citrin Cooperman",
+    "handle": "citrincooperman"
+  },
+  {
+    "name": "PKF O'Connor Davies",
+    "handle": "pkf"
+  },
+  {
+    "name": "Withum",
+    "handle": "withum"
+  },
+  {
+    "name": "Cherry Bekaert",
+    "handle": "cherrybekaert"
+  },
+  {
+    "name": "CBIZ",
+    "handle": "cbiz"
+  },
+  {
+    "name": "MHM",
+    "handle": "mhm"
+  },
+  {
+    "name": "Plante Moran",
+    "handle": "plantemoran"
+  },
+  {
+    "name": "Moss Adams",
+    "handle": "mossadams"
+  },
+  {
+    "name": "Crowe Horwath",
+    "handle": "crowehorwath"
+  },
+  {
+    "name": "CliftonLarsonAllen",
+    "handle": "cla"
+  },
+  {
+    "name": "CLA Connect",
+    "handle": "claconnect"
+  },
+  {
+    "name": "BKD",
+    "handle": "bkd"
+  },
+  {
+    "name": "Dixon Hughes Goodman",
+    "handle": "dhg"
+  },
+  {
+    "name": "Carr, Riggs & Ingram",
+    "handle": "cri"
+  },
+  {
+    "name": "Eide Bailly",
+    "handle": "eidebailly"
+  },
+  {
+    "name": "Wipfli",
+    "handle": "wipfli"
+  },
+  {
+    "name": "RubinBrown",
+    "handle": "rubinbrown"
+  },
+  {
+    "name": "Kaufman Rossin",
+    "handle": "kaufmanrossin"
+  },
+  {
+    "name": "Schellman",
+    "handle": "schellman"
+  },
+  {
+    "name": "Coalfire",
+    "handle": "coalfire"
+  },
+  {
+    "name": "A-LIGN",
+    "handle": "align"
+  },
+  {
+    "name": "KirkpatrickPrice",
+    "handle": "kirkpatrickprice"
+  },
+  {
+    "name": "Sensiba San Filippo",
+    "handle": "sensibasanfilippo"
+  },
+  {
+    "name": "SSF",
+    "handle": "ssf"
+  },
+  {
+    "name": "BPM",
+    "handle": "bpm"
+  },
+  {
+    "name": "Aprio",
+    "handle": "aprio"
+  },
+  {
+    "name": "Warren Averett",
+    "handle": "warrenaverett"
+  },
+  {
+    "name": "Horne",
+    "handle": "horne"
+  },
+  {
+    "name": "Doeren Mayhew",
+    "handle": "doerenmayhew"
+  },
+  {
+    "name": "Elliott Davis",
+    "handle": "elliottdavis"
+  },
+  {
+    "name": "Whitley Penn",
+    "handle": "whitleypenn"
+  },
+  {
+    "name": "LaPorte",
+    "handle": "laporte"
+  },
+  {
+    "name": "Postlethwaite & Netterville",
+    "handle": "postlethwaitenetterville"
+  },
+  {
+    "name": "P&N",
+    "handle": "pn"
+  },
+  {
+    "name": "UHY LLP",
+    "handle": "uhyllp"
+  },
+  {
+    "name": "Freed Maxick",
+    "handle": "freedmaxick"
+  },
+  {
+    "name": "Rea & Associates",
+    "handle": "reaassociates"
+  },
+  {
+    "name": "Schneider Downs",
+    "handle": "schneiderdowns"
+  },
+  {
+    "name": "Kreischer Miller",
+    "handle": "kreischermiller"
+  },
+  {
+    "name": "Anchin",
+    "handle": "anchin"
+  },
+  {
+    "name": "Friedman",
+    "handle": "friedman"
+  },
+  {
+    "name": "Grassi",
+    "handle": "grassi"
+  },
+  {
+    "name": "Prager Metis",
+    "handle": "pragermetis"
+  },
+  {
+    "name": "Anchin, Block & Anchin",
+    "handle": "anchinblockanchin"
+  },
+  {
+    "name": "Friedman LLP",
+    "handle": "friedmanllp"
+  },
+  {
+    "name": "EisnerAmper LLP",
+    "handle": "eisneramperllp"
+  },
+  {
+    "name": "Grassi & Co.",
+    "handle": "grassico"
+  },
+  {
+    "name": "Prager Metis CPAs",
+    "handle": "pragermetiscpas"
+  },
+  {
+    "name": "Marcum LLP",
+    "handle": "marcumllp"
+  },
+  {
+    "name": "CohnReznick LLP",
+    "handle": "cohnreznickllp"
+  },
+  {
+    "name": "Citrin Cooperman & Company",
+    "handle": "citrincoopermancompany"
+  },
+  {
+    "name": "WithumSmith+Brown",
+    "handle": "withumsmithbrown"
+  },
+  {
+    "name": "PKF O'Connor Davies, LLP",
+    "handle": "pkfoconnordaviesllp"
+  },
+  {
+    "name": "Berndon",
+    "handle": "berndon"
+  },
+  {
+    "name": "Marks Paneth",
+    "handle": "markspaneth"
+  },
+  {
+    "name": "Schneider Downs & Co.",
+    "handle": "schneiderdownsco"
+  },
+  {
+    "name": "Kreischer Miller LLP",
+    "handle": "kreischermillerllp"
+  },
+  {
+    "name": "Mauldin & Jenkins",
+    "handle": "mauldinjenkins"
+  },
+  {
+    "name": "M&J",
+    "handle": "mj"
+  },
+  {
+    "name": "Horne LLP",
+    "handle": "hornellp"
+  },
+  {
+    "name": "Warren Averett, LLC",
+    "handle": "warrenaverettllc"
+  },
+  {
+    "name": "CBIZ, Inc.",
+    "handle": "cbizinc"
+  },
+  {
+    "name": "MHM (Mayer Hoffman McCann)",
+    "handle": "mhmmayerhoffmanmccann"
+  },
+  {
+    "name": "CliftonLarsonAllen LLP",
+    "handle": "cliftonlarsonallenllp"
+  },
+  {
+    "name": "Eide Bailly LLP",
+    "handle": "eidebaillyllp"
+  },
+  {
+    "name": "Wipfli LLP",
+    "handle": "wipflillp"
+  },
+  {
+    "name": "Moss Adams LLP",
+    "handle": "mossadamsllp"
+  },
+  {
+    "name": "Plante & Moran, PLLC",
+    "handle": "plantemoranpllc"
+  },
+  {
+    "name": "RubinBrown LLP",
+    "handle": "rubinbrownllp"
+  },
+  {
+    "name": "Kaufman Rossin & Co.",
+    "handle": "kaufmanrossinco"
+  },
+  {
+    "name": "Schellman & Company",
+    "handle": "schellmancompany"
+  },
+  {
+    "name": "Coalfire Systems",
+    "handle": "coalfiresystems"
+  },
+  {
+    "name": "A-LIGN Compliance",
+    "handle": "aligncompliance"
+  },
+  {
+    "name": "KirkpatrickPrice, Inc.",
+    "handle": "kirkpatrickpriceinc"
+  },
+  {
+    "name": "Sensiba San Filippo LLP",
+    "handle": "sensibasanfilippollp"
+  },
+  {
+    "name": "BPM LLP",
+    "handle": "bpmllp"
+  },
+  {
+    "name": "Aprio, LLP",
+    "handle": "apriollp"
+  },
+  {
+    "name": "Doeren Mayhew & Co.",
+    "handle": "doerenmayhewco"
+  },
+  {
+    "name": "Elliott Davis, LLC",
+    "handle": "elliottdavisllc"
+  },
+  {
+    "name": "Whitley Penn LLP",
+    "handle": "whitleypennllp"
+  },
+  {
+    "name": "LaPorte CPAs",
+    "handle": "laportecpas"
+  },
+  {
+    "name": "Freed Maxick CPAs",
+    "handle": "freedmaxickcpas"
+  },
+  {
+    "name": "Rea & Associates, Inc.",
+    "handle": "reaassociatesinc"
+  },
+  {
+    "name": "Anchin, Block & Anchin LLP",
+    "handle": "anchinblockanchinllp"
+  },
+  {
+    "name": "Grassi & Co., P.C.",
+    "handle": "grassicopc"
+  },
+  {
+    "name": "Prager Metis CPAs, LLC",
+    "handle": "pragermetiscpasllc"
+  },
+  {
+    "name": "Citrin Cooperman & Company, LLP",
+    "handle": "citrincoopermancompanyllp"
+  },
+  {
+    "name": "WithumSmith+Brown, PC",
+    "handle": "withumsmithbrownpc"
+  },
+  {
+    "name": "Berndon LLP",
+    "handle": "berndonllp"
+  },
+  {
+    "name": "Marks Paneth LLP",
+    "handle": "markspanethllp"
+  },
+  {
+    "name": "Schneider Downs & Co., Inc.",
+    "handle": "schneiderdownscoinc"
+  },
+  {
+    "name": "Mauldin & Jenkins, LLC",
+    "handle": "mauldinjenkinsllc"
+  },
+  {
+    "name": "MHM (Mayer Hoffman McCann) P.C.",
+    "handle": "mhmmayerhoffmanmccannpc"
+  },
+  {
+    "name": "Schellman & Company, LLC",
+    "handle": "schellmancompanyllc"
+  },
+  {
+    "name": "Coalfire Systems, Inc.",
+    "handle": "coalfiresystemsinc"
+  },
+  {
+    "name": "A-LIGN Compliance and Security",
+    "handle": "aligncomplianceandsecurity"
+  },
+  {
+    "name": "Doeren Mayhew & Co., P.C.",
+    "handle": "doerenmayhewcopc"
+  },
+  {
+    "name": "LaPorte CPAs & Business Advisors",
+    "handle": "laportecpasbusinessadvisors"
+  },
+  {
+    "name": "Freed Maxick CPAs, P.C.",
+    "handle": "freedmaxickcpaspc"
+  }
+]

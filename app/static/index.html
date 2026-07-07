@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal IT Job Finder & ATS Resume Tailor</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container no-print">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fa-solid fa-briefcase logo-icon"></i>
+                <div class="logo-text">
+                    <h1>JobFinder</h1>
+                    <span>Agent v1.0</span>
+                </div>
+            </div>
+            <nav class="nav-menu">
+                <a href="#profile" class="nav-item active" onclick="switchTab('profile')">
+                    <i class="fa-solid fa-user-tie"></i> Profile Persona
+                </a>
+                <a href="#jobs" class="nav-item" onclick="switchTab('jobs')">
+                    <i class="fa-solid fa-magnifying-glass"></i> Jobs Discovery
+                </a>
+                <a href="#tailor" class="nav-item disabled" id="nav-tailor-tab" onclick="switchTab('tailor')">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Tailor Hub
+                </a>
+            </nav>
+            <div class="footer-info">
+                <div class="cred-status">
+                    <p><i class="fa-solid fa-key icon-green"></i> Groq Loaded</p>
+                    <p class="small-text">Llama 3.1 70B & 8B</p>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Workspace -->
+        <main class="main-content">
+            <!-- 1. Profile Persona Tab -->
+            <section id="tab-profile" class="tab-pane active">
+                <header class="tab-header">
+                    <h2>Candidate Profile Persona</h2>
+                    <p>Manage your professional details. These details are analyzed by the AI agents to locate fresher SDE/AI/ML/Data jobs in India.</p>
+                </header>
+                
+                <form id="profile-form" onsubmit="saveProfile(event)">
+                    <div class="form-grid card">
+                        <div class="form-group col-6">
+                            <label><i class="fa-solid fa-user"></i> Full Name</label>
+                            <input type="text" id="prof-name" required placeholder="Aditya Yadav">
+                        </div>
+                        <div class="form-group col-6">
+                            <label><i class="fa-solid fa-envelope"></i> Email Address</label>
+                            <input type="email" id="prof-email" required placeholder="a.d.aditya7122003@gmail.com">
+                        </div>
+                        <div class="form-group col-4">
+                            <label><i class="fa-solid fa-phone"></i> Contact Phone</label>
+                            <input type="text" id="prof-phone" required placeholder="+91 9462008402">
+                        </div>
+                        <div class="form-group col-4">
+                            <label><i class="fa-brands fa-github"></i> GitHub Profile Link</label>
+                            <input type="url" id="prof-github" placeholder="https://github.com/adityayadav4507">
+                        </div>
+                        <div class="form-group col-4">
+                            <label><i class="fa-brands fa-linkedin"></i> LinkedIn Profile Link</label>
+                            <input type="url" id="prof-linkedin" placeholder="https://www.linkedin.com/in/aditya-yadav-4ab632258/">
+                        </div>
+                    </div>
+
+                    <!-- Skills Section -->
+                    <div class="card margin-top">
+                        <h3 class="card-title"><i class="fa-solid fa-laptop-code"></i> Technical Skills</h3>
+                        <div id="skills-container" class="skills-grid">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Education Section -->
+                    <div class="card margin-top">
+                        <h3 class="card-title"><i class="fa-solid fa-graduation-cap"></i> Education</h3>
+                        <div id="education-list">
+                            <!-- Populated dynamically -->
+                        </div>
+                        <button type="button" class="btn btn-secondary margin-top-sm" onclick="addEducationRow()"><i class="fa-solid fa-plus"></i> Add Education</button>
+                    </div>
+
+                    <!-- Projects Section -->
+                    <div class="card margin-top">
+                        <h3 class="card-title"><i class="fa-solid fa-diagram-project"></i> Projects</h3>
+                        <div id="projects-list">
+                            <!-- Populated dynamically -->
+                        </div>
+                        <button type="button" class="btn btn-secondary margin-top-sm" onclick="addProjectRow()"><i class="fa-solid fa-plus"></i> Add Project</button>
+                    </div>
+
+                    <div class="form-actions margin-top">
+                        <button type="submit" class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Save Profile & Persona</button>
+                    </div>
+                </form>
+            </section>
+
+            <!-- 2. Jobs Discovery Tab -->
+            <section id="tab-jobs" class="tab-pane">
+                <header class="tab-header flex-header">
+                    <div>
+                        <h2>Jobs Discovered (Past 24 Hours)</h2>
+                        <p>Showing fresher-eligible IT jobs in India filtered dynamically from 100+ startups, LinkedIn, and Adzuna APIs.</p>
+                    </div>
+                    <button class="btn btn-primary" onclick="searchJobs(true)">
+                        <i class="fa-solid fa-rotate-right"></i> Scan Fresh Jobs
+                    </button>
+                </header>
+
+                <div id="loading-container" class="loading-state hidden">
+                    <div class="spinner"></div>
+                    <p>Crawling Greenhouse, Lever, Adzuna, and Google Search...</p>
+                    <p class="small-text">Analyzing, scoring, and ranking top 30 fresher jobs</p>
+                </div>
+
+                <div id="jobs-container" class="jobs-list-grid">
+                    <!-- Dynamic Job Cards -->
+                </div>
+            </section>
+
+            <!-- 3. Tailor Workspace Tab -->
+            <section id="tab-tailor" class="tab-pane">
+                <header class="tab-header flex-header">
+                    <div>
+                        <h2 id="tailor-header-title">Tailor Hub: Job Details</h2>
+                        <p id="tailor-header-subtitle">Tailor your LaTeX resume and draft your cover letter for this opening.</p>
+                    </div>
+                    <button class="btn btn-secondary" onclick="switchTab('jobs')">
+                        <i class="fa-solid fa-arrow-left"></i> Back to Jobs Feed
+                    </button>
+                </header>
+
+                <div id="tailor-loading" class="loading-state hidden">
+                    <div class="spinner"></div>
+                    <p>AI agent is extracting ATS keywords and rewriting resume bullet points...</p>
+                </div>
+
+                <div id="tailor-workspace" class="workspace-grid hidden">
+                    <!-- Left Side: Job details & Cover letter -->
+                    <div class="workspace-left">
+                        <div class="card">
+                            <h3 class="card-title"><i class="fa-solid fa-briefcase"></i> Job details & Match score</h3>
+                            <div class="job-meta-details">
+                                <h4 id="work-job-title">Software Engineer</h4>
+                                <p id="work-job-company">Google</p>
+                                <span id="work-job-source-tag" class="job-badge bg-blue"><i class="fa-brands fa-linkedin"></i> LinkedIn</span>
+                                <div class="match-score-pill">Match Score: <strong id="work-match-score">85%</strong></div>
+                            </div>
+                        </div>
+
+                        <div class="card margin-top">
+                            <h3 class="card-title"><i class="fa-solid fa-tags"></i> Target ATS Keywords</h3>
+                            <div id="work-keywords" class="keyword-tags">
+                                <!-- Keywords -->
+                            </div>
+                        </div>
+
+                        <div class="card margin-top">
+                            <div class="flex-header">
+                                <h3 class="card-title"><i class="fa-solid fa-envelope-open-text"></i> Tailored Cover Letter</h3>
+                                <button class="btn btn-sm btn-secondary" onclick="copyToClipboard('work-cover-letter')">Copy Letter</button>
+                            </div>
+                            <textarea id="work-cover-letter" class="cover-letter-box" rows="12"></textarea>
+                        </div>
+                    </div>
+
+                    <!-- Right Side: Split LaTeX Editor / Visual Preview -->
+                    <div class="workspace-right">
+                        <div class="editor-tabs">
+                            <button class="editor-tab active" onclick="switchEditorMode('visual')"><i class="fa-solid fa-eye"></i> Visual Form Editor</button>
+                            <button class="editor-tab" onclick="switchEditorMode('code')"><i class="fa-solid fa-code"></i> LaTeX Code</button>
+                        </div>
+
+                        <div class="editor-workspace card">
+                            <!-- Tab A: Visual Form Editor -->
+                            <div id="editor-visual" class="editor-pane active">
+                                <p class="info-banner"><i class="fa-solid fa-info-circle"></i> Edit resume details below. The HTML template and raw LaTeX code will automatically synchronize.</p>
+                                <div class="visual-form-scrollable">
+                                    <div class="form-group">
+                                        <label>Full Name</label>
+                                        <input type="text" id="vis-name" oninput="syncVisualToCode()">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email Address</label>
+                                        <input type="email" id="vis-email" oninput="syncVisualToCode()">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Phone Number</label>
+                                        <input type="text" id="vis-phone" oninput="syncVisualToCode()">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>LinkedIn</label>
+                                        <input type="text" id="vis-linkedin" oninput="syncVisualToCode()">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>GitHub</label>
+                                        <input type="text" id="vis-github" oninput="syncVisualToCode()">
+                                    </div>
+                                    <div id="vis-projects-container">
+                                        <!-- Dynamically loaded visual projects forms -->
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Tab B: LaTeX Code Editor -->
+                            <div id="editor-code" class="editor-pane">
+                                <textarea id="raw-latex-editor" class="latex-textarea" rows="25" spellcheck="false"></textarea>
+                            </div>
+
+                            <div class="editor-actions">
+                                <button class="btn btn-secondary" onclick="downloadTexFile()"><i class="fa-solid fa-file-arrow-down"></i> Download .tex (for Overleaf)</button>
+                                <button class="btn btn-primary" onclick="printResume()"><i class="fa-solid fa-file-pdf"></i> Download PDF</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Print-Only Layout (mimicking standard LaTeX resume layout) -->
+    <div id="print-resume-container" class="print-only">
+        <!-- Rendered dynamically matching the LaTeX design system -->
+    </div>
+
+    <!-- Script imports -->
+    <script src="script.js"></script>
+</body>
+</html>
